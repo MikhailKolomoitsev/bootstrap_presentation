@@ -58,6 +58,7 @@
     "webpackbar": "^4.0.0"
   },
   "dependencies": {
+    "bootstrap": "^5.0.2",
     "uuid4": "^2.0.2",
     "uuidv4": "^6.2.5"
   }
